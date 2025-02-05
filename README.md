@@ -53,7 +53,7 @@ The complete Python code and dataset are available in the **GitHub repository**.
 - Differencing helps ensure stationarity, a crucial assumption for reliable regression analysis.
 
 ### **4.3 Residual Analysis**
-![Residual Analysis](/image/residual_ols_regression.png)
+![Residual Analysis](image/residual_ols_regression.png)
 - Residuals over time and fitted values indicate a good model fit, with no major patterns violating assumptions.
 
 ### **4.4 Fitted vs Actual Values**
