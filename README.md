@@ -32,7 +32,7 @@ This project explores the relationship between **cryptocurrency volatility** (wi
 ## **3. Code Overview**
 
 The complete Python code and dataset are available in the **GitHub repository**.  
-📎 [Code and Data Download](./path/to/code_and_data)
+📎 [Code and Data Download](btc_code.py)
 
 **Key Steps**:
 - Data preprocessing (missing value handling, transformations)
