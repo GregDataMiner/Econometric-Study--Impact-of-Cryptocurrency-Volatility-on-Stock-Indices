@@ -2,12 +2,12 @@ from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 from matplotlib import pyplot as plt
 
-%matplotlib inline
 
 import numpy as np
 import pandas as pd
 import statsmodels.api as sm
-bitcoindata = pd.read_excel("C:/Users/grego/Downloads/bitcoinity_dataF.xlsx")
+filepath=".../bitcoinity_dataF.xlsx"
+bitcoindata = pd.read_excel(filepath)
 
 bitcoindata.head()
 bitcoindata.bfill(inplace=True)
