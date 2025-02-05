@@ -45,19 +45,19 @@ The complete Python code and dataset are available in the **GitHub repository**.
 ## **4. Key Visualizations**
 
 ### **4.1 Ln(Price) vs Time**
-![Ln(Price) vs Time](./images/ln_price_vs_time.png)
+![ln_price_vs_time](Image/ln_price_vs_time.png)
 - The natural logarithm of Bitcoin's price shows consistent growth with periods of high volatility.
 
 ### **4.2 First-order Differences**
-![First-order Differences](./images/first_diff.png)
+![f_o_dif](Image/f_o_dif.png)
 - Differencing helps ensure stationarity, a crucial assumption for reliable regression analysis.
 
 ### **4.3 Residual Analysis**
-![Residual Analysis](image/residual_ols_regression.png)
+![residual_ols_regression](Image/residual_ols_regression.png)
 - Residuals over time and fitted values indicate a good model fit, with no major patterns violating assumptions.
 
 ### **4.4 Fitted vs Actual Values**
-![Fitted vs Actual Values](./images/fitted_vs_actual.png)
+![fited_vs_actual](Image/fited_vs_actual.png)
 - The model successfully captures long-term price trends, although performance varies during volatility peaks.
 
 ---
