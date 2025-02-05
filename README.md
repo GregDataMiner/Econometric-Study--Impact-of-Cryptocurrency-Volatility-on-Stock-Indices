@@ -3,6 +3,10 @@
 This project explores the relationship between **cryptocurrency volatility** (with a focus on **Bitcoin** and **Ethereum**) and traditional stock indices such as the **S&P 500**, **NASDAQ**, and **Dow Jones**. Using advanced econometric models, including **ARCH**, **GARCH**, and **OLS regression**, we aim to analyze the dynamic interactions between these asset classes. Additionally, a separate deep-dive is conducted into the **Bitcoin price** using **time series** models, examining the effectiveness of the **Stock-to-Flow (S2F)** model in explaining price movements.
 
 ---
+![cover](Image/cover.png)
+
+
+---
 
 ## **1. Project Overview**
 
